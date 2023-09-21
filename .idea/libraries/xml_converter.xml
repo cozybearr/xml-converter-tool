@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="xml-converter">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/xml-converter-tool/tool/xml-converter.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/xml-converter-tool/source-code/lib/jasypt-1.9.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/xml-converter-tool/source-code/lib/slf4j-api-1.7.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/xml-converter-tool/source-code/lib/ini4j-0.5.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/xml-converter-tool/source-code/lib/univocity-parsers-2.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/xml-converter-tool/source-code/lib/logback-classic-1.1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/xml-converter-tool/source-code/lib/logback-core-1.1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/xml-converter-tool/source-code/lib/ojdbc8-12.2.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
